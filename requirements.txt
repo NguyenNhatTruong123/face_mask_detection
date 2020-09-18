@@ -1,0 +1,45 @@
+Pillow==5.1.0
+absl-py==0.7.0
+click==7.0
+Flask==1.0.2
+h5py==2.8.0
+html5lib==1.0.1
+itsdangerous==0.24
+Jinja2==2.10
+Keras==2.2.4
+Markdown==3.0.1
+MarkupSafe==1.1.1
+numpy==1.16.2
+protobuf==3.6.1
+PyYAML==5.1
+scipy==1.2.1
+six==1.12.0
+tensorflow==1.13.1
+Werkzeug==0.14.1
+opencv-python
+flask_static_compress
+scikit-learn==0.20.3
+face_recognition
+cryptography==3.1
+requests==2.24.0
+# THONGNM ADD
+# FOR AI
+CMake
+dlib
+face_recognition_models
+
+# FOR API
+
+# unittest
+html-testRunner
+
+coverage
+# quan ly comand line
+flask_script
+# database sqlite, migration
+flask_sqlalchemy
+flask_migrate
+marshmallow
+
+# connect postgresql
+psycopg2
